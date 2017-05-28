@@ -5,3 +5,4 @@ List of features:
 - simplified user registration process: unique user/password combination typed for the first time
 - friends list and status notifcation 
 - general and private messages
+- GUI
